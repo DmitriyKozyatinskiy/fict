@@ -20,11 +20,11 @@
     "practiceSubGroups": 4,
     "labSubGroups": 8,
     "contractGroups": 3,
-    "flows": 1,
     "bStudents": 0,
     "kStudents": 3,
     "bkStudents": 37,
-    "kkStudents": 29
+    "kkStudents": 29,
+    "flows": 1
   },
   {
     "faculty": "ФІВТ",
@@ -47,10 +47,10 @@
     "practiceSubGroups": 4,
     "labSubGroups": 8,
     "contractGroups": 3,
-    "flows": 1,
     "bStudents": 0,
     "kStudents": 3,
     "bkStudents": 37,
-    "kkStudents": 29
+    "kkStudents": 29,
+    "flows": 1
   }
 ]
