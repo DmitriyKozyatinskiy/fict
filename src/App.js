@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import K3Table from './components/K3Table';
+import K3Table from './containers/K3Table';
 
 class App extends Component {
   render() {

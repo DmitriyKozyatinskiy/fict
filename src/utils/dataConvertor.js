@@ -1,5 +1,5 @@
 export const convertK3Data = data =>
-  data.map(row => {
+  data.map((row, i) => {
     const {
       faculty,
       discipline,
@@ -32,6 +32,7 @@ export const convertK3Data = data =>
     )}`;
 
     return [
+      i + 1,
       generalInfo,
       disciplineTotal,
       lectureHours,
