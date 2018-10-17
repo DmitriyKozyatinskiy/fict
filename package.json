@@ -2,7 +2,7 @@
   "name": "fict",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://dmitriykozyatinskiy.github.io/fict",
+  "homepage" : "https://fict-plan-builder.netlify.com",
   "dependencies": {
     "cipher-base": "^1.0.4",
     "normalize.css": "^8.0.0",
