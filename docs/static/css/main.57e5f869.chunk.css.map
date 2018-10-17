@@ -1,1 +1,0 @@
-{"version":3,"sources":["F:/Projects/fiot/src/scss/F:/Projects/fiot/src/scss/index.css"],"names":[],"mappings":"AAAA,KACE,aAAc,AACd,gBAAiB,AACjB,6BAA+B,CAAE","file":"main.57e5f869.chunk.css","sourcesContent":["body {\n  width: 3000px;\n  overflow-x: auto;\n  font-family: Roboto sans-serif; }\n"]}

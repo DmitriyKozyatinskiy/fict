@@ -1,5 +1,3 @@
-console.log('ENV: ', process.env.NODE_ENV);
-
 export const API_URL =
   process.env.NODE_ENV === 'production'
     ? 'https://serene-fjord-66759.herokuapp.com/api'
