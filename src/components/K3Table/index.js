@@ -8,7 +8,7 @@ import K3TableRow from './../K3TableRow';
 class K3Table extends Component {
   render() {
     return (
-      <Table celled structured>
+      <Table id="k3Table" celled structured>
         <Table.Header>
           <Table.Row>
             <Table.HeaderCell rowSpan="3">#</Table.HeaderCell>
